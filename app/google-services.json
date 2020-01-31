@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "337755897460",
+    "firebase_url": "https://onlinehealthcentergt.firebaseio.com",
+    "project_id": "onlinehealthcentergt",
+    "storage_bucket": "onlinehealthcentergt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337755897460:android:956bbbc46bba9d31f6db21",
+        "android_client_info": {
+          "package_name": "com.example.a40q"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337755897460-oev3h43hl71pj25raatabru7cbifbiu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a40q",
+            "certificate_hash": "e30e828b1af84b9664d6c8a34856f65820ea21db"
+          }
+        },
+        {
+          "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKU-LLQzA34OevOJGNTUaSecICirKdo8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337755897460:android:6bfe0c93caa749b8f6db21",
+        "android_client_info": {
+          "package_name": "com.example.ohcgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337755897460-q5o35j6mijk6gajtdf72uu8mi73g42eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ohcgt",
+            "certificate_hash": "cf047ada8a0aed4a6a51a893534fb4ee664d02a5"
+          }
+        },
+        {
+          "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKU-LLQzA34OevOJGNTUaSecICirKdo8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337755897460:android:e385d5188d6be0e2f6db21",
+        "android_client_info": {
+          "package_name": "com.example.onlinehealthcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337755897460-62nc5ou349oehujgi8rdats0mfl2pp5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinehealthcenter",
+            "certificate_hash": "cf047ada8a0aed4a6a51a893534fb4ee664d02a5"
+          }
+        },
+        {
+          "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKU-LLQzA34OevOJGNTUaSecICirKdo8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337755897460-9293qskbdb8jg0cu462d9cs3dalt2skh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
